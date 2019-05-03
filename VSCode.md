@@ -1,4 +1,6 @@
-### VSCode の Vim
+VSCode の Vim についてのノート
+
+### NOTE
 - 複数行をコピー|カットペースト
     - 3dd => p
     - 3yy => p
@@ -13,3 +15,4 @@
     - ctrl + o でNormalModeに一旦入るので操作
 - Multi Cursor?
     - 普通に使えるっぽい？
+- Normal mode で行を選択してコピーはどうする？
